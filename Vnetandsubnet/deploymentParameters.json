@@ -3,13 +3,13 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "name": {
-            "value": "samplek"
+            "value": "sampletk"
         },
         "location": {
             "value": "centralus"
         },
         "resourceGroup": {
-            "value": "rgsamplek"
+            "value": "rgsampletk"
         },
         "addressPrefix": {
             "value": "10.6.0.0/16"
